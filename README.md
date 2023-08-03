@@ -1,4 +1,4 @@
-# Cognito User Pool Integration with Angular Application  
+# Cognito  
 # Description 
 This project demonstrate the integration of AWS Cognito User Pool into an Angular application to handle user authentication and registration. 
 This project was generated with Angular CLI version 16.0.5.
