@@ -9,6 +9,7 @@ reset their passwords, and receive verification codes. The UI is built with Boot
 - Bootstrap (version: 5.3.0)
 
 # AWS Services Used
+- AWS Amplify
 - Amazon Cognito
 - AWS Lambda
 - API Gateway
@@ -30,16 +31,20 @@ reset their passwords, and receive verification codes. The UI is built with Boot
 
 # Features      
 **1. User Registration:** New users can sign up and create an account by providing e-mail and password.
-  ![image](https://github.com/MiltiadisN/test/assets/103901423/b7216e73-375d-4c96-a8d4-90019da0cb3b)   
-  After successful registration, a verification code is automatically sent to the user's email for account verification.   
-  Insert the verification code after the registration process.     
+  ![image](https://github.com/MiltiadisN/test/assets/103901423/739b415e-9c2c-4d93-866a-b2ce8d2fa282)    
+  After successful registration, a verification code is automatically sent to the user's email for account verification.    
+  Insert the verification code after the registration process.        
   ![image](https://github.com/MiltiadisN/test/assets/103901423/7b013dbb-41d0-4a27-8d06-85cbef54c837)   
 
-**2. User Login:** Registered users can sign in using their credentials and access the application.        
-  ![image](https://github.com/MiltiadisN/test/assets/103901423/3b8f18a7-8c61-4e1a-acb2-040d272c9b51)  
+**2. User Login:** Registered users can sign in using their credentials and access the application.                  
+  ![image](https://github.com/MiltiadisN/test/assets/103901423/87750e69-86b3-4b07-aba7-b967b2652a94)  
+  After signing in successfully, the user gains access to view their orders retrieved from an AWS Lambda function.   
+  ![image](https://github.com/MiltiadisN/test/assets/103901423/69fc5782-3b42-48ba-ba76-b22b5a224a40)
+  The user can log out from the application.      
+  ![image](https://github.com/MiltiadisN/test/assets/103901423/a4aa180f-9b0d-43ed-b50c-0b9f78ebf255)
 
 **3. Forgot Password:** In case users forget their passwords, the application allows them to reset their passwords by receiving a verification code through email.      
-  ![image](https://github.com/MiltiadisN/test/assets/103901423/cfe0c03f-cef3-4236-b2bc-cfb60a43421e)  
+  ![image](https://github.com/MiltiadisN/test/assets/103901423/a4e13eb7-bcb5-4337-8777-8d37b4d55020) 
 
 **4. Resend Code:** If users do not receive the verification code during the sign-up process, they will have the option to request a new code when          
   they sign in with their email and password in the login section.
