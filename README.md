@@ -40,13 +40,13 @@ The application provides a authentication and authorization system using Amazon 
   After signing in successfully, the user gains access to view their orders retrieved from an AWS Lambda function.   
   ![image](https://github.com/MiltiadisN/test/assets/103901423/69fc5782-3b42-48ba-ba76-b22b5a224a40)
   The user can log out from the application.      
-  ![image](https://github.com/MiltiadisN/test/assets/103901423/a4aa180f-9b0d-43ed-b50c-0b9f78ebf255)
+  ![image](https://github.com/MiltiadisN/test/assets/103901423/a4aa180f-9b0d-43ed-b50c-0b9f78ebf255)    
 
-**3. Forgot Password:** In case users forget their passwords, the application allows them to reset their passwords by receiving a verification code through email.      
-  ![image](https://github.com/MiltiadisN/test/assets/103901423/a4e13eb7-bcb5-4337-8777-8d37b4d55020) 
-
-**4. Resend Code:** If users do not receive the verification code during the sign-up process, they will have the option to request a new code when          
-  they sign in with their email and password in the login section.
+**3. Forgot Password:** In case users forget their passwords, the application allows them to reset their passwords by receiving a verification code through email.          
+  ![image](https://github.com/MiltiadisN/test/assets/103901423/a4e13eb7-bcb5-4337-8777-8d37b4d55020)    
+  
+**4. Resend Code:** If users do not receive the verification code during the sign-up process, they will have the option to request a new code when 
+  they sign in with their email and password in the login section.           
   ![image](https://github.com/MiltiadisN/test/assets/103901423/6f644325-5b97-4a30-94f6-9e8c8388243f)
 
 
