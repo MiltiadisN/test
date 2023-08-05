@@ -37,7 +37,7 @@ The application provides a authentication and authorization system using Amazon 
 
 **2. User Login:** Registered users can sign in using their credentials and access the application.                  
   ![image](https://github.com/MiltiadisN/test/assets/103901423/87750e69-86b3-4b07-aba7-b967b2652a94)  
-  After signing in successfully, the user gains access to view their orders retrieved from an AWS Lambda function.   
+  After sign in successfully, the user gains access to view their orders retrieved from an AWS Lambda function.   
   ![image](https://github.com/MiltiadisN/test/assets/103901423/69fc5782-3b42-48ba-ba76-b22b5a224a40)
   The user can log out from the application.      
   ![image](https://github.com/MiltiadisN/test/assets/103901423/a4aa180f-9b0d-43ed-b50c-0b9f78ebf255)    
