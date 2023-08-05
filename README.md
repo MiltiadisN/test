@@ -23,10 +23,10 @@ The application provides a authentication and authorization system using Amazon 
 - Run the project: **ng serve**
 
 # Configuration
-1. Open the **'environment.ts'** file located in src/environments. Replace the following placeholders with your actual values:  
-   ![image](https://github.com/MiltiadisN/test/assets/103901423/920f1a1d-8c16-4af3-abd8-25511b60669f)
-2. In the **order.service.ts** file located in src/app/services replace the URL with your actual API Gateway URL from AWS.
-   ![image](https://github.com/MiltiadisN/test/assets/103901423/70c680f3-4536-4cd1-b79c-4e6f1f2b8dcb)
+1. Open the **'environment.ts'** file located in src/environments. Replace the following placeholders with your values:  
+   ![image](https://github.com/MiltiadisN/test/assets/103901423/8ecc0f8e-7d72-4ac3-ad4c-b22ad955e4b2)
+2. In the **order.service.ts** file located in src/app/services replace the URL with your API Gateway URL from AWS.
+   ![image](https://github.com/MiltiadisN/test/assets/103901423/86da52f6-1e86-46e2-a9a8-be7559fb4fcc)
 
 # Features      
 **1. User Registration:** New users can sign up and create an account by providing e-mail and password.
