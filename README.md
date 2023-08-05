@@ -23,10 +23,9 @@ reset their passwords, and receive verification codes. The UI is built with Boot
 - Run the project: **ng serve**
 
 # Configuration
-1. Open the **'environment.ts'** file located in src/environments.  
-2. Replace the following placeholders with your actual values:  
+1. Open the **'environment.ts'** file located in src/environments. Replace the following placeholders with your actual values:  
    ![image](https://github.com/MiltiadisN/test/assets/103901423/920f1a1d-8c16-4af3-abd8-25511b60669f)
-3. In the **order.service.ts** file located in src/app/services replace the URL with your actual API Gateway URL from AWS.
+2. In the **order.service.ts** file located in src/app/services replace the URL with your actual API Gateway URL from AWS.
    ![image](https://github.com/MiltiadisN/test/assets/103901423/70c680f3-4536-4cd1-b79c-4e6f1f2b8dcb)
 
 # Features      
