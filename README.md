@@ -1,4 +1,4 @@
-# AWS Cognito Angular   
+# SpringBoot-Angular 
 # Description 
 This project demonstrate how to integrate AWS services, including Lambda, Cognito, and API Gateway, into an Angular frontend.              
 The application provides a authentication and authorization system using Amazon Cognito, allowing users to sign up, sign in, logout, reset their passwords, and receive verification codes. The UI is built with Bootstrap.                 
