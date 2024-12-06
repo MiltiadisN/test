@@ -3,7 +3,9 @@
 This project demonstrates how to integrate Spring Boot and Angular, creating an Employee Task System. This project has implemented all the CRUD operations (Create, Read, Update, Delete) for    employees and their associated tasks.The UI is build with Angular Material.   
 
 # Technologies Used  
-- SpringBoot  (version: 3.1.1)  
+- SpringBoot  (version: 3.1.1)
+- Spring Security
+- JWT (JSON Web Tokens)
 - MySQL  
 - Hibernate  
 - Angular (version: 16.0.5)  
