@@ -1,13 +1,14 @@
 # SpringBoot-Angular   
 # Description   
-This project demonstrates how to integrate Spring Boot and Angular, creating an Employee Task System. This project has implemented all the CRUD operations (Create, Read, Update, Delete) for    employees and their associated tasks.The UI is build with Angular Material.   
+This project demonstrates how to integrate Spring Boot and Angular, creating an Employee Task System. This project has implemented all the CRUD operations (Create, Read, Update, Delete) for employees and their associated tasks. It incorporates JWT-based authentication, Spring Security, and email verification for secure manager registration. The UI is build with Angular Material.   
 
 # Technologies Used  
 - SpringBoot  (version: 3.1.1)
 - Spring Security
 - JWT (JSON Web Tokens)
-- MySQL  
+- Spring Boot Mail
 - Hibernate  
+- MySQL  
 - Angular (version: 16.0.5)  
 - Angular Material UI  
   
