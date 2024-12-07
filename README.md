@@ -38,7 +38,7 @@ Just create the database, no need to worry about creating tables. When you run t
 
 # Features
   **1. Register:** Register.                 
-  ![image](https://github.com/user-attachments/assets/10f038ef-4830-432d-ba77-93b1a36dd3ba)          
+  ![image](https://github.com/user-attachments/assets/d4c65339-4d10-4356-b1a8-e96b5402b604)   
   **2. Code:** Code.                      
   ![image](https://github.com/user-attachments/assets/fc914501-eb2a-4b44-87a7-ebd3fb6f87e4)               
   **3. Login:** Login.                         
