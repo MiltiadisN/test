@@ -29,7 +29,8 @@ This project demonstrates how to integrate Spring Boot and Angular, creating an 
   ![image](https://github.com/MiltiadisN/test/assets/103901423/85abad19-ce92-4bd7-a17d-36ca966bddad)    
 Just create the database, no need to worry about creating tables. When you run the application, Hibernate will automatically generate the required tables within the "employee_task_v1" database.   
 **3. Email Configuration:** Update application.properties for Email Configuration.
-  ![image](https://github.com/user-attachments/assets/f068616e-d8c3-4d06-9931-562d6dda0459)
+  ![image](https://github.com/user-attachments/assets/fe130e02-c5bf-4672-90b6-9877b4ec1ca0)
+
 
   
 
