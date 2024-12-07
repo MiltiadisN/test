@@ -39,12 +39,15 @@ Just create the database, no need to worry about creating tables. When you run t
 # Features
   **1. Create Employee:** Create employee details, including Firstname, Lastname, E-mail and Gender. 
   ![image](https://github.com/user-attachments/assets/3b48ebe7-0ba6-4cec-aa01-25cb24691722)
-  **1. Create Employee:** Create employee details, including Firstname, Lastname, E-mail and Gender.
+  **1. Create Employee:** Create employee details, including Firstname, Lastname, E-mail and Gender. 
   ![image](https://github.com/user-attachments/assets/fc914501-eb2a-4b44-87a7-ebd3fb6f87e4)
-  **1. Create Employee:** Create employee details, including Firstname, Lastname, E-mail and Gender.
+  **1. Create Employee:** Create employee details, including Firstname, Lastname, E-mail and Gender. 
   ![image](https://github.com/user-attachments/assets/c272b2f0-bb90-4933-a7b4-ec5d56b7168a)
   **1. Create Employee:** Create employee details, including Firstname, Lastname, E-mail and Gender.  
   ![image](https://github.com/MiltiadisN/test/assets/103901423/f60f7bdd-2fef-4f7e-b9b2-8b456e0f3823)  
+  **1. Create Employee:** Create employee details, including Firstname, Lastname, E-mail and Gender. 
+  ![image](https://github.com/user-attachments/assets/c519ddb9-10f6-4c3f-a42f-4d9f552f086a)
+
   ![image](https://github.com/MiltiadisN/test/assets/103901423/84050f5b-b9a2-4b38-93bf-b601b94ab5f7)    
   **2. Employee Update Form:** Update employee details, including Firstname, Lastname, E-mail and Gender.    
   ![image](https://github.com/MiltiadisN/test/assets/103901423/6a5fd6fa-95ce-475c-9e4d-153848d99063)  
