@@ -28,10 +28,11 @@ This project demonstrates how to integrate Spring Boot and Angular, creating an 
 **3. Update Username, Password:** Make sure to update the database username and password to match your MySQL configuration.   
   ![image](https://github.com/MiltiadisN/test/assets/103901423/85abad19-ce92-4bd7-a17d-36ca966bddad)    
 Just create the database, no need to worry about creating tables. When you run the application, Hibernate will automatically generate the required tables within the "employee_task_v1" database.   
-**3. Email Configuration:** Update application.properties for Email Configuration.
+**4. Email Configuration:** Update application.properties for Email Configuration.
   ![image](https://github.com/user-attachments/assets/53d828ef-5343-43b7-9b43-ad1203a802fd)
-**4. JTW Secret Key and Expiration Time:** Update application.properties for Secret Key and Expiration Time.
-  ![image](https://github.com/user-attachments/assets/00bdf709-0f14-4986-8d57-ffcb12c82754)
+**5. JTW Secret Key and Expiration Time:** Update application.properties for Secret Key and Expiration Time.
+  ![image](https://github.com/user-attachments/assets/e0367848-a534-4a80-9a9e-47381edd03b9)
+
 
   
 
