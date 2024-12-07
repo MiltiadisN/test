@@ -37,31 +37,31 @@ Just create the database, no need to worry about creating tables. When you run t
   
 
 # Features
-  **1. Register:** Register.               
-  ![image](https://github.com/user-attachments/assets/3b48ebe7-0ba6-4cec-aa01-25cb24691722)           
-  **1. Code:** Code.                      
+  **1. Register:** Register.                 
+  ![image](https://github.com/user-attachments/assets/10f038ef-4830-432d-ba77-93b1a36dd3ba)          
+  **2. Code:** Code.                      
   ![image](https://github.com/user-attachments/assets/fc914501-eb2a-4b44-87a7-ebd3fb6f87e4)               
-  **1. Login:** Login.                         
+  **3. Login:** Login.                         
   ![image](https://github.com/user-attachments/assets/c272b2f0-bb90-4933-a7b4-ec5d56b7168a)             
-  **1. Manager** Manager.                        
+  **4. Manager** Manager.                        
   ![image](https://github.com/user-attachments/assets/c519ddb9-10f6-4c3f-a42f-4d9f552f086a)                    
-  **1. Create Employee:** Create employee details, including Firstname, Lastname, E-mail and Gender.           
+  **5. Create Employee:** Create employee details, including Firstname, Lastname, E-mail and Gender.           
   ![image](https://github.com/MiltiadisN/test/assets/103901423/f60f7bdd-2fef-4f7e-b9b2-8b456e0f3823)            
   ![image](https://github.com/MiltiadisN/test/assets/103901423/84050f5b-b9a2-4b38-93bf-b601b94ab5f7)                
-  **2. Employee Update Form:** Update employee details, including Firstname, Lastname, E-mail and Gender.                  
+  **6. Employee Update Form:** Update employee details, including Firstname, Lastname, E-mail and Gender.                  
   ![image](https://github.com/MiltiadisN/test/assets/103901423/6a5fd6fa-95ce-475c-9e4d-153848d99063)                                
   ![image](https://github.com/MiltiadisN/test/assets/103901423/a5231901-41bb-4063-943d-564ece30edda)                      
-  **3. Task Assignment:** Assign tasks to specific employees.                       
+  **7. Task Assignment:** Assign tasks to specific employees.                       
   ![image](https://github.com/MiltiadisN/test/assets/103901423/c5b7516d-8f83-4907-baea-efc8efc50ee5)                      
   ![image](https://github.com/MiltiadisN/test/assets/103901423/26396ff7-9596-485b-bf06-3e39c9ff0084)                          
-  **4.** See the list of tasks assigned to each employee.    
+  **8.** See the list of tasks assigned to each employee.    
   ![image](https://github.com/MiltiadisN/test/assets/103901423/6b2f068b-49c1-48a8-a636-b2731821e14b)     
   ![image](https://github.com/MiltiadisN/test/assets/103901423/183fa4cc-9be3-4ff0-bda7-60303d1f0df5)      
-  **5. Search, Pagination, Sorting:** Find employees by name using a search feature, view a limited number of records at a time and sort employee records based on first name, last name, email, and gender.          
+  **9. Search, Pagination, Sorting:** Find employees by name using a search feature, view a limited number of records at a time and sort employee records based on first name, last name, email, and gender.          
   ![image](https://github.com/MiltiadisN/test/assets/103901423/0b435eca-3a3b-48a7-b98a-1e396c190c69)     
-  **6. Task Management:** Manage tasks with title, description, and expiration date.        
+  **10. Task Management:** Manage tasks with title, description, and expiration date.        
   ![image](https://github.com/MiltiadisN/SpringBoot-Angular/assets/103901423/9da3187e-98ce-41ce-a32a-395392c15f1f)   
-  **7. Task Update Form:** Update task details, including title, description, and expiration date.  
+  **11. Task Update Form:** Update task details, including title, description, and expiration date.  
   ![image](https://github.com/MiltiadisN/test/assets/103901423/615d7e1a-59a0-4e4d-8bdf-00fb6197c2e9)  
   
 
