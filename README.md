@@ -42,7 +42,7 @@ Just create the database, no need to worry about creating tables. When you run t
   **2. Code:** Code.                                  
   ![image](https://github.com/user-attachments/assets/8d48bda6-d952-4e02-b91b-3e9b85093bd9)                   
   **3. Login:** Login.                         
-  ![image](https://github.com/user-attachments/assets/c272b2f0-bb90-4933-a7b4-ec5d56b7168a)             
+  ![image](https://github.com/user-attachments/assets/0e318507-6568-4357-9e5b-2c4d82acd56d)                       
   **4. Manager** Manager.                        
   ![image](https://github.com/user-attachments/assets/c519ddb9-10f6-4c3f-a42f-4d9f552f086a)                    
   **5. Create Employee:** Create employee details, including Firstname, Lastname, E-mail and Gender.           
