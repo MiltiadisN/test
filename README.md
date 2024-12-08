@@ -39,12 +39,12 @@ Just create the database, no need to worry about creating tables. When you run t
 # Features
   **1. Register:** Managers can register by providing their details. Upon registration, a unique verification code is sent to their email. This ensures only verified managers can access the system.                                   
   ![image](https://github.com/user-attachments/assets/a7179021-6f58-46fd-9680-adb60d7d53bf)       
-  **2. Code:** After receiving the verification code via email, managers must enter it in the system to complete the registration process and activate their account.                                      
+  **2. Verify Email:** After receiving the verification code via email, managers must enter it in the system to complete the registration process and activate their account.                                      
   ![image](https://github.com/user-attachments/assets/8d48bda6-d952-4e02-b91b-3e9b85093bd9)                   
   **3. Login:** Once registered and verified, managers can log in to the system using their credentials.                             
   ![image](https://github.com/user-attachments/assets/0e318507-6568-4357-9e5b-2c4d82acd56d)                       
   **4. Manager** After logging in, managers can update their own profile details or delete their account if they choose to . They can also create, edit, assign, and delete employees and their task.           
-  ![image](https://github.com/user-attachments/assets/c519ddb9-10f6-4c3f-a42f-4d9f552f086a)                    
+  ![image](https://github.com/user-attachments/assets/4799eebf-2fba-4ce4-9fc5-473a6bc4c58d)                   
   **5. Create Employee:** Create employee details, including Firstname, Lastname, E-mail and Gender.           
   ![image](https://github.com/MiltiadisN/test/assets/103901423/f60f7bdd-2fef-4f7e-b9b2-8b456e0f3823)            
   ![image](https://github.com/MiltiadisN/test/assets/103901423/84050f5b-b9a2-4b38-93bf-b601b94ab5f7)                
