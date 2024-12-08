@@ -45,8 +45,8 @@ Just create the database, no need to worry about creating tables. When you run t
   ![image](https://github.com/user-attachments/assets/0e318507-6568-4357-9e5b-2c4d82acd56d)                       
   **4. Manager** After logging in, managers can update their own profile details or delete their account if they choose to . They can also create, edit, assign, and delete employees and their task.                        
   ![image](https://github.com/user-attachments/assets/4799eebf-2fba-4ce4-9fc5-473a6bc4c58d)         
-  **5. Manager Update Form:** Update manager details, including Username, E-mail, Password and City.                                   
-  ![image](https://github.com/user-attachments/assets/70dc43ea-8483-4fe9-8817-f8342d2ec3d5)        
+  **5. Manager Update Form:** Update manager details, including Username, E-mail, Password and City.                                       
+  ![image](https://github.com/user-attachments/assets/90c4c42c-f3b4-4d7d-9492-535093af0997)         
   **6. Create Employee:** Create employee details, including Firstname, Lastname, E-mail and Gender.           
   ![image](https://github.com/MiltiadisN/test/assets/103901423/f60f7bdd-2fef-4f7e-b9b2-8b456e0f3823)            
   ![image](https://github.com/MiltiadisN/test/assets/103901423/84050f5b-b9a2-4b38-93bf-b601b94ab5f7)                
